@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_client\chatting_client\main.cpp(46,38): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_client\chatting_client\main.cpp(86,72): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_client\chatting_client\main.cpp(108,21): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_client\chatting_client\main.cpp(109,57): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  chatting_client.vcxproj -> C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_client\x64\Debug\chatting_client.exe

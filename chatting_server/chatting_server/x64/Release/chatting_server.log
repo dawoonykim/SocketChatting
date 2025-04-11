@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(23,62): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(36,54): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(47,51): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(70,54): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(84,53): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(89,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(101,51): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(140,53): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(145,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(154,51): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(188,62): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(192,58): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(198,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(206,51): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(242,55): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\chatting_server\main.cpp(249,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 262 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  chatting_server.vcxproj -> C:\Users\dawoo\Desktop\SQL\25.04.10\chatting_program\chatting_server\x64\Release\chatting_server.exe
